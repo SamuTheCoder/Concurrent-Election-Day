@@ -1,0 +1,1148 @@
+* Created Voter with ID: 3
+* Created Voter with ID: 10
+The polling station is open.
+* Created Voter with ID: 9
+* Created Voter with ID: 8
+* Created Voter with ID: 7
+* Created Voter with ID: 2
+- Hello, I am Poll Clerk 1
+* Created Voter with ID: 5
+* Created Voter with ID: 1
+* Created Voter with ID: 6
+Voter 1 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+* Created Voter with ID: 4
+- Voter 3 entering queue, 5
+Voter 4 Waiting for space to enter at polling Station
+Voter 6 Waiting for space to enter at polling Station
+- Voter 2 entering queue, 5
+Voter 3 exiting desk queue
+- Voter 10 entering queue, 5
+- Voter 9 entering queue, 5
+- Poll Clerk 1 is processing Voter 3
+- Voter 8 entering queue, 5
+- Voter 7 entering queue, 5
+- Voter 3 has been approved by Poll Clerk 1
+Voter 2 exiting desk queue
+- Poll Clerk 1 is processing Voter 2
+Voter 3 voted anonymously
+Voter 1 Waiting for space to enter at polling Station
+Voter 6 Waiting for space to enter at polling Station
+Voter 4 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+- Voter 2 has been approved by Poll Clerk 1
+Voter 10 exiting desk queue
+- Poll Clerk 1 is processing Voter 10
+* Voter 3 told the pollster he voted in CHZ
+* Voter 3 reborn into 11
+Voter 11 Waiting for space to enter at polling Station
+- Voter 10 has been approved by Poll Clerk 1
+Voter 9 exiting desk queue
+- Poll Clerk 1 is processing Voter 9
+Voter 2 voted anonymously
+- Voter 1 entering queue, 5
+Voter 11 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+Voter 4 Waiting for space to enter at polling Station
+Voter 6 Waiting for space to enter at polling Station
+Voter 10 voted anonymously
+- Voter 11 entering queue, 5
+Voter 6 Waiting for space to enter at polling Station
+Voter 4 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+- Voter 9 has been approved by Poll Clerk 1
+Voter 8 exiting desk queue
+- Poll Clerk 1 is processing Voter 8
+* Voter 2 didn't respond to the pollster
+* Voter 2 reborn into 12
+Voter 12 Waiting for space to enter at polling Station
+- Voter 8 has been approved by Poll Clerk 1
+Voter 7 exiting desk queue
+- Poll Clerk 1 is processing Voter 7
+* Voter 10 told the pollster he voted in PPS
+- Voter 7 has been approved by Poll Clerk 1
+* Voter 10 reborn into 13
+Voter 1 exiting desk queue
+Voter 13 Waiting for space to enter at polling Station
+Voter 9 voted anonymously
+- Poll Clerk 1 is processing Voter 1
+Voter 7 voted anonymously
+- Voter 6 entering queue, 5
+Voter 13 Waiting for space to enter at polling Station
+Voter 12 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+Voter 4 Waiting for space to enter at polling Station
+- Voter 13 entering queue, 5
+Voter 4 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+Voter 12 Waiting for space to enter at polling Station
+Voter 8 voted anonymously
+- Voter 4 entering queue, 5
+Voter 12 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+* Voter 9 told the pollster he voted in PPS
+* Voter 9 reborn into 14
+Voter 14 Waiting for space to enter at polling Station
+- Voter 1 has been approved by Poll Clerk 1
+Voter 11 exiting desk queue
+- Poll Clerk 1 is processing Voter 11
+* Voter 7 didn't respond to the pollster
+* Voter 7 reborn into 15
+Voter 15 Waiting for space to enter at polling Station
+> Voter 8 was not selected by the pollster.
+* Voter 8 reborn into 16
+Voter 16 Waiting for space to enter at polling Station
+Voter 1 voted anonymously
+- Voter 11 has been approved by Poll Clerk 1
+Voter 6 exiting desk queue
+Voter 16 Waiting for space to enter at polling Station
+- Voter 12 entering queue, 5
+- Poll Clerk 1 is processing Voter 6
+Voter 15 Waiting for space to enter at polling Station
+Voter 14 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+- Voter 6 has been approved by Poll Clerk 1
+Voter 13 exiting desk queue
+- Poll Clerk 1 is processing Voter 13
+* Voter 1 told the pollster he voted in PPS
+* Voter 1 reborn into 17
+Voter 17 Waiting for space to enter at polling Station
+Voter 11 voted anonymously
+- Voter 16 entering queue, 5
+Voter 17 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+Voter 14 Waiting for space to enter at polling Station
+Voter 15 Waiting for space to enter at polling Station
+- Voter 13 has been approved by Poll Clerk 1
+Voter 4 exiting desk queue
+- Poll Clerk 1 is processing Voter 4
+Voter 6 voted anonymously
+* Voter 11 didn't respond to the pollster
+* Voter 11 reborn into 18
+Voter 15 Waiting for space to enter at polling Station
+- Voter 17 entering queue, 5
+Voter 14 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+Voter 18 Waiting for space to enter at polling Station
+- Voter 4 has been approved by Poll Clerk 1
+Voter 12 exiting desk queue
+- Poll Clerk 1 is processing Voter 12
+* Voter 6 told the pollster he voted in MRL
+* Voter 6 reborn into 19
+Voter 19 Waiting for space to enter at polling Station
+Voter 13 voted anonymously
+- Voter 15 entering queue, 5
+Voter 19 Waiting for space to enter at polling Station
+Voter 18 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+Voter 14 Waiting for space to enter at polling Station
+- Voter 12 has been approved by Poll Clerk 1
+Voter 16 exiting desk queue
+- Poll Clerk 1 is processing Voter 16
+Voter 4 voted anonymously
+- Voter 19 entering queue, 5
+Voter 14 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+Voter 18 Waiting for space to enter at polling Station
+* Voter 13 didn't respond to the pollster
+- Voter 16 has been approved by Poll Clerk 1
+* Voter 13 reborn into 20
+Voter 17 exiting desk queue
+Voter 20 Waiting for space to enter at polling Station
+- Poll Clerk 1 is processing Voter 17
+* Voter 4 told the pollster he voted in PPS
+* Voter 4 reborn into 21
+Voter 21 Waiting for space to enter at polling Station
+- Voter 17 has been approved by Poll Clerk 1
+Voter 15 exiting desk queue
+- Poll Clerk 1 is processing Voter 15
+Voter 12 voted anonymously
+- Voter 14 entering queue, 5
+> Voter 12 was not selected by the pollster.
+Voter 21 Waiting for space to enter at polling Station
+Voter 20 Waiting for space to enter at polling Station
+Voter 18 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+* Voter 12 reborn into 22
+Voter 22 Waiting for space to enter at polling Station
+- Voter 15 has been approved by Poll Clerk 1
+Voter 19 exiting desk queue
+- Poll Clerk 1 is processing Voter 19
+Voter 17 voted anonymously
+> Voter 17 was not selected by the pollster.
+- Voter 19 has been approved by Poll Clerk 1
+- Voter 21 entering queue, 5
+Voter 22 Waiting for space to enter at polling Station
+Voter 14 exiting desk queue
+Voter 5 Waiting for space to enter at polling Station
+* Voter 17 reborn into 23
+Voter 23 Waiting for space to enter at polling Station
+Voter 18 Waiting for space to enter at polling Station
+- Poll Clerk 1 is processing Voter 14
+Voter 20 Waiting for space to enter at polling Station
+- Voter 14 has been approved by Poll Clerk 1
+Voter 21 exiting desk queue
+- Poll Clerk 1 is processing Voter 21
+Voter 16 voted anonymously
+> Voter 16 was not selected by the pollster.
+Voter 20 Waiting for space to enter at polling Station
+- Voter 22 entering queue, 5
+Voter 18 Waiting for space to enter at polling Station
+Voter 23 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+* Voter 16 reborn into 24
+Voter 24 Waiting for space to enter at polling Station
+- Voter 21 has been approved by Poll Clerk 1
+Voter 22 exiting desk queue
+- Poll Clerk 1 is processing Voter 22
+Voter 15 voted anonymously
+> Voter 15 was not selected by the pollster.
+- Voter 20 entering queue, 5
+Voter 24 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+Voter 23 Waiting for space to enter at polling Station
+Voter 18 Waiting for space to enter at polling Station
+* Voter 15 reborn into 25
+Voter 25 Waiting for space to enter at polling Station
+- Voter 22 has been approved by Poll Clerk 1
+Voter 20 exiting desk queue
+- Poll Clerk 1 is processing Voter 20
+Voter 14 voted anonymously
+Voter 19 voted anonymously
+Voter 25 Waiting for space to enter at polling Station
+- Voter 24 entering queue, 5
+Voter 18 Waiting for space to enter at polling Station
+Voter 23 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+Voter 5 Waiting for space to enter at polling Station
+- Voter 25 entering queue, 5
+Voter 23 Waiting for space to enter at polling Station
+Voter 18 Waiting for space to enter at polling Station
+- Voter 20 has been approved by Poll Clerk 1
+Voter 24 exiting desk queue
+- Poll Clerk 1 is processing Voter 24
+* Voter 14 didn't respond to the pollster
+* Voter 14 reborn into 26
+Voter 26 Waiting for space to enter at polling Station
+Voter 21 voted anonymously
+- Voter 5 entering queue, 5
+Voter 26 Waiting for space to enter at polling Station
+Voter 18 Waiting for space to enter at polling Station
+Voter 23 Waiting for space to enter at polling Station
+- Voter 24 has been approved by Poll Clerk 1
+Voter 25 exiting desk queue
+- Poll Clerk 1 is processing Voter 25
+* Voter 19 didn't respond to the pollster
+> Voter 21 was not selected by the pollster.
+* Voter 19 reborn into 27
+* Voter 21 reborn into 28
+Voter 27 Waiting for space to enter at polling Station
+Voter 28 Waiting for space to enter at polling Station
+- Voter 25 has been approved by Poll Clerk 1
+Voter 5 exiting desk queue
+- Poll Clerk 1 is processing Voter 5
+Voter 22 voted anonymously
+- Voter 26 entering queue, 5
+Voter 28 Waiting for space to enter at polling Station
+Voter 27 Waiting for space to enter at polling Station
+Voter 23 Waiting for space to enter at polling Station
+Voter 18 Waiting for space to enter at polling Station
+Voter 20 voted anonymously
+- Voter 28 entering queue, 5
+Voter 18 Waiting for space to enter at polling Station
+Voter 23 Waiting for space to enter at polling Station
+Voter 27 Waiting for space to enter at polling Station
+- Voter 5 has been approved by Poll Clerk 1
+Voter 26 exiting desk queue
+- Poll Clerk 1 is processing Voter 26
+* Voter 22 lied to the pollster about his party. He said he voted in MRL
+* Voter 22 reborn into 29
+Voter 29 Waiting for space to enter at polling Station
+- Voter 26 has been approved by Poll Clerk 1
+Voter 28 exiting desk queue
+- Poll Clerk 1 is processing Voter 28
+Voter 25 voted anonymously
+* Voter 20 lied to the pollster about his party. He said he voted in CHZ
+Voter 29 Waiting for space to enter at polling Station
+- Voter 18 entering queue, 5
+Voter 27 Waiting for space to enter at polling Station
+Voter 23 Waiting for space to enter at polling Station
+* Voter 20 reborn into 30
+Voter 30 Waiting for space to enter at polling Station
+- Voter 28 has been approved by Poll Clerk 1
+Voter 18 exiting desk queue
+- Poll Clerk 1 is processing Voter 18
+* Voter 25 told the pollster he voted in MRL
+* Voter 25 reborn into 31
+Voter 31 Waiting for space to enter at polling Station
+Voter 24 voted anonymously
+- Voter 29 entering queue, 5
+Voter 31 Waiting for space to enter at polling Station
+Voter 30 Waiting for space to enter at polling Station
+Voter 23 Waiting for space to enter at polling Station
+Voter 27 Waiting for space to enter at polling Station
+- Voter 18 has been approved by Poll Clerk 1
+Voter 29 exiting desk queue
+- Poll Clerk 1 is processing Voter 29
+Voter 26 voted anonymously
+- Voter 31 entering queue, 5
+Voter 27 Waiting for space to enter at polling Station
+Voter 23 Waiting for space to enter at polling Station
+Voter 30 Waiting for space to enter at polling Station
+- Voter 29 has been approved by Poll Clerk 1
+Voter 31 exiting desk queue
+- Poll Clerk 1 is processing Voter 31
+* Voter 24 told the pollster he voted in PPS
+* Voter 24 reborn into 32
+Voter 32 Waiting for space to enter at polling Station
+- Voter 31 has been approved by Poll Clerk 1
+* Voter 26 told the pollster he voted in PPS
+Voter 5 voted anonymously
+* Voter 26 reborn into 33
+Voter 33 Waiting for space to enter at polling Station
+- Voter 27 entering queue, 5
+Voter 32 Waiting for space to enter at polling Station
+Voter 27 exiting desk queue
+Voter 30 Waiting for space to enter at polling Station
+- Poll Clerk 1 is processing Voter 27
+Voter 23 Waiting for space to enter at polling Station
+* Voter 5 lied to the pollster about his party. He said he voted in PPS
+* Voter 5 reborn into 34
+- Voter 27 has been approved by Poll Clerk 1
+Voter 34 Waiting for space to enter at polling Station
+Voter 28 voted anonymously
+Voter 34 Waiting for space to enter at polling Station
+- Voter 33 entering queue, 5
+Voter 23 Waiting for space to enter at polling Station
+Voter 33 exiting desk queue
+Voter 30 Waiting for space to enter at polling Station
+- Poll Clerk 1 is processing Voter 33
+Voter 32 Waiting for space to enter at polling Station
+* Voter 28 didn't respond to the pollster
+- Voter 33 has been approved by Poll Clerk 1
+* Voter 28 reborn into 35
+Voter 35 Waiting for space to enter at polling Station
+Voter 18 voted anonymously
+Voter 35 Waiting for space to enter at polling Station
+- Voter 34 entering queue, 5
+Voter 32 Waiting for space to enter at polling Station
+Voter 34 exiting desk queue
+Voter 30 Waiting for space to enter at polling Station
+- Poll Clerk 1 is processing Voter 34
+Voter 23 Waiting for space to enter at polling Station
+Voter 27 voted anonymously
+- Voter 35 entering queue, 5
+Voter 23 Waiting for space to enter at polling Station
+Voter 30 Waiting for space to enter at polling Station
+Voter 32 Waiting for space to enter at polling Station
+- Voter 34 has been approved by Poll Clerk 1
+* Voter 18 didn't respond to the pollster
+Voter 35 exiting desk queue
+* Voter 18 reborn into 36
+- Poll Clerk 1 is processing Voter 35
+Voter 36 Waiting for space to enter at polling Station
+Voter 31 voted anonymously
+- Voter 23 entering queue, 5
+Voter 36 Waiting for space to enter at polling Station
+Voter 29 voted anonymously
+Voter 32 Waiting for space to enter at polling Station
+Voter 33 voted anonymously
+Voter 30 Waiting for space to enter at polling Station
+Voter 34 voted anonymously
+- Voter 30 entering queue, 5
+- Voter 36 entering queue, 5
+- Voter 32 entering queue, 5
+- Voter 35 has been approved by Poll Clerk 1
+Voter 23 exiting desk queue
+- Poll Clerk 1 is processing Voter 23
+Voter 35 voted anonymously
+* Voter 27 told the pollster he voted in PPS
+> Voter 31 was not selected by the pollster.
+* Voter 27 reborn into 37
+* Voter 31 reborn into 38
+- Voter 37 entering queue, 5
+Voter 38 Waiting for space to enter at polling Station
+- Voter 23 has been approved by Poll Clerk 1
+Voter 30 exiting desk queue
+- Poll Clerk 1 is processing Voter 30
+* Voter 29 told the pollster he voted in MRL
+* Voter 29 reborn into 39
+Voter 39 Waiting for space to enter at polling Station
+* Voter 33 told the pollster he voted in MRL
+> Voter 34 was not selected by the pollster.
+* Voter 33 reborn into 40
+> Voter 35 was not selected by the pollster.
+Voter 40 Waiting for space to enter at polling Station
+* Voter 35 reborn into 41
+* Voter 34 reborn false
+Voter 41 Waiting for space to enter at polling Station
+Voter 34 Waiting for space to enter at polling Station
+- Voter 30 has been approved by Poll Clerk 1
+Voter 36 exiting desk queue
+- Poll Clerk 1 is processing Voter 36
+Voter 23 voted anonymously
+> Voter 23 was not selected by the pollster.
+Voter 34 Waiting for space to enter at polling Station
+Voter 41 Waiting for space to enter at polling Station
+- Voter 38 entering queue, 5
+Voter 40 Waiting for space to enter at polling Station
+* Voter 23 reborn false
+Voter 39 Waiting for space to enter at polling Station
+Voter 23 Waiting for space to enter at polling Station
+- Voter 36 has been approved by Poll Clerk 1
+Voter 32 exiting desk queue
+- Poll Clerk 1 is processing Voter 32
+Voter 30 voted anonymously
+- Voter 34 entering queue, 5
+Voter 23 Waiting for space to enter at polling Station
+Voter 39 Waiting for space to enter at polling Station
+Voter 40 Waiting for space to enter at polling Station
+Voter 41 Waiting for space to enter at polling Station
+- Voter 32 has been approved by Poll Clerk 1
+Voter 37 exiting desk queue
+- Poll Clerk 1 is processing Voter 37
+- Voter 37 has been approved by Poll Clerk 1
+Voter 38 exiting desk queue
+- Poll Clerk 1 is processing Voter 38
+* Voter 30 didn't respond to the pollster
+* Voter 30 reborn into 42
+Voter 42 Waiting for space to enter at polling Station
+Voter 36 voted anonymously
+- Voter 23 entering queue, 5
+Voter 42 Waiting for space to enter at polling Station
+Voter 41 Waiting for space to enter at polling Station
+Voter 40 Waiting for space to enter at polling Station
+Voter 39 Waiting for space to enter at polling Station
+- Voter 38 has been approved by Poll Clerk 1
+Voter 34 exiting desk queue
+- Poll Clerk 1 is processing Voter 34
+* Voter 36 told the pollster he voted in FDR
+* Voter 36 reborn into 43
+Voter 43 Waiting for space to enter at polling Station
+Voter 37 voted anonymously
+Voter 43 Waiting for space to enter at polling Station
+- Voter 42 entering queue, 5
+Voter 39 Waiting for space to enter at polling Station
+- Voter 34 has been rejected by Poll Clerk 1
+Voter 40 Waiting for space to enter at polling Station
+Voter 41 Waiting for space to enter at polling Station
+Voter 23 exiting desk queue
+* Voter 34 reborn into 44
+- Poll Clerk 1 is processing Voter 23
+- Voter 44 entering queue, 5
+Voter 32 voted anonymously
+- Voter 43 entering queue, 5
+Voter 41 Waiting for space to enter at polling Station
+Voter 40 Waiting for space to enter at polling Station
+Voter 39 Waiting for space to enter at polling Station
+Voter 38 voted anonymously
+Voter 39 Waiting for space to enter at polling Station
+- Voter 41 entering queue, 5
+Voter 40 Waiting for space to enter at polling Station
+* Voter 37 told the pollster he voted in PPS
+* Voter 37 reborn into 45
+Voter 45 Waiting for space to enter at polling Station
+- Voter 23 has been rejected by Poll Clerk 1
+Voter 42 exiting desk queue
+- Poll Clerk 1 is processing Voter 42
+* Voter 23 reborn into 46
+- Voter 46 entering queue, 5
+* Voter 32 didn't respond to the pollster
+* Voter 32 reborn into 47
+Voter 47 Waiting for space to enter at polling Station
+- Voter 42 has been approved by Poll Clerk 1
+Voter 44 exiting desk queue
+- Poll Clerk 1 is processing Voter 44
+* Voter 38 told the pollster he voted in PPS
+* Voter 38 reborn into 48
+Voter 48 Waiting for space to enter at polling Station
+- Voter 44 has been approved by Poll Clerk 1
+Voter 43 exiting desk queue
+- Poll Clerk 1 is processing Voter 43
+Voter 42 voted anonymously
+- Voter 39 entering queue, 5
+Voter 48 Waiting for space to enter at polling Station
+Voter 47 Waiting for space to enter at polling Station
+Voter 45 Waiting for space to enter at polling Station
+Voter 40 Waiting for space to enter at polling Station
+- Voter 43 has been approved by Poll Clerk 1
+Voter 41 exiting desk queue
+- Poll Clerk 1 is processing Voter 41
+* Voter 42 lied to the pollster about his party. He said he voted in FDR
+* Voter 42 reborn into 49
+Voter 49 Waiting for space to enter at polling Station
+- Voter 41 has been approved by Poll Clerk 1
+Voter 46 exiting desk queue
+- Poll Clerk 1 is processing Voter 46
+Voter 44 voted anonymously
+* Voter 44 reborn into 50
+- Voter 48 entering queue, 5
+Voter 50 Waiting for space to enter at polling Station
+Voter 49 Waiting for space to enter at polling Station
+Voter 40 Waiting for space to enter at polling Station
+Voter 45 Waiting for space to enter at polling Station
+Voter 47 Waiting for space to enter at polling Station
+- Voter 46 has been approved by Poll Clerk 1
+Voter 39 exiting desk queue
+- Poll Clerk 1 is processing Voter 39
+- Voter 39 has been approved by Poll Clerk 1
+Voter 48 exiting desk queue
+- Poll Clerk 1 is processing Voter 48
+* Voter 50 didn't respond to the pollster
+Voter 41 voted anonymously
+- Voter 50 entering queue, 5
+Voter 43 voted anonymously
+Voter 47 Waiting for space to enter at polling Station
+Voter 45 Waiting for space to enter at polling Station
+Voter 40 Waiting for space to enter at polling Station
+Voter 49 Waiting for space to enter at polling Station
+Voter 40 Waiting for space to enter at polling Station
+- Voter 49 entering queue, 5
+Voter 45 Waiting for space to enter at polling Station
+Voter 47 Waiting for space to enter at polling Station
+Voter 39 voted anonymously
+- Voter 40 entering queue, 5
+Voter 47 Waiting for space to enter at polling Station
+Voter 45 Waiting for space to enter at polling Station
+* Voter 41 told the pollster he voted in CHZ
+Voter 46 voted anonymously
+* Voter 41 reborn into 51
+* Voter 46 reborn into 52
+Voter 45 Waiting for space to enter at polling Station
+- Voter 47 entering queue, 5
+Voter 52 Waiting for space to enter at polling Station
+Voter 51 Waiting for space to enter at polling Station
+- Voter 48 has been approved by Poll Clerk 1
+Voter 50 exiting desk queue
+- Poll Clerk 1 is processing Voter 50
+* Voter 43 didn't respond to the pollster
+* Voter 43 reborn into 53
+Voter 53 Waiting for space to enter at polling Station
+- Voter 50 has been approved by Poll Clerk 1
+Voter 49 exiting desk queue
+- Poll Clerk 1 is processing Voter 49
+- Voter 49 has been approved by Poll Clerk 1
+Voter 40 exiting desk queue
+- Poll Clerk 1 is processing Voter 40
+Voter 48 voted anonymously
+- Voter 45 entering queue, 5
+Voter 53 Waiting for space to enter at polling Station
+Voter 51 Waiting for space to enter at polling Station
+Voter 52 Waiting for space to enter at polling Station
+* Voter 39 didn't respond to the pollster
+* Voter 39 reborn into 54
+Voter 54 Waiting for space to enter at polling Station
+- Voter 40 has been approved by Poll Clerk 1
+Voter 47 exiting desk queue
+- Poll Clerk 1 is processing Voter 47
+* Voter 52 told the pollster he voted in MRL
+Voter 49 voted anonymously
+- Voter 53 entering queue, 5
+Voter 54 Waiting for space to enter at polling Station
+Voter 52 Waiting for space to enter at polling Station
+Voter 51 Waiting for space to enter at polling Station
+- Voter 47 has been approved by Poll Clerk 1
+Voter 45 exiting desk queue
+- Poll Clerk 1 is processing Voter 45
+Voter 50 voted anonymously
+* Voter 50 reborn into 55
+Voter 51 Waiting for space to enter at polling Station
+- Voter 54 entering queue, 5
+Voter 52 Waiting for space to enter at polling Station
+Voter 55 Waiting for space to enter at polling Station
+* Voter 48 didn't respond to the pollster
+* Voter 48 reborn into 56
+Voter 56 Waiting for space to enter at polling Station
+Voter 40 voted anonymously
+Voter 56 Waiting for space to enter at polling Station
+- Voter 51 entering queue, 5
+Voter 55 Waiting for space to enter at polling Station
+Voter 52 Waiting for space to enter at polling Station
+- Voter 45 has been approved by Poll Clerk 1
+Voter 53 exiting desk queue
+- Poll Clerk 1 is processing Voter 53
+* Voter 49 told the pollster he voted in PPS
+* Voter 49 reborn into 57
+Voter 57 Waiting for space to enter at polling Station
+- Voter 53 has been approved by Poll Clerk 1
+Voter 54 exiting desk queue
+- Poll Clerk 1 is processing Voter 54
+Voter 47 voted anonymously
+Voter 57 Waiting for space to enter at polling Station
+- Voter 56 entering queue, 5
+Voter 52 Waiting for space to enter at polling Station
+Voter 55 Waiting for space to enter at polling Station
+* Voter 55 told the pollster he voted in FDR
+> Voter 40 was not selected by the pollster.
+* Voter 40 reborn into 58
+Voter 58 Waiting for space to enter at polling Station
+- Voter 54 has been approved by Poll Clerk 1
+Voter 51 exiting desk queue
+- Poll Clerk 1 is processing Voter 51
+Voter 53 voted anonymously
+- Voter 57 entering queue, 5
+Voter 58 Waiting for space to enter at polling Station
+Voter 55 Waiting for space to enter at polling Station
+Voter 52 Waiting for space to enter at polling Station
+* Voter 47 lied to the pollster about his party. He said he voted in FDR
+* Voter 47 reborn into 59
+Voter 59 Waiting for space to enter at polling Station
+- Voter 51 has been approved by Poll Clerk 1
+Voter 56 exiting desk queue
+- Poll Clerk 1 is processing Voter 56
+Voter 45 voted anonymously
+Voter 59 Waiting for space to enter at polling Station
+- Voter 58 entering queue, 5
+Voter 52 Waiting for space to enter at polling Station
+Voter 55 Waiting for space to enter at polling Station
+* Voter 53 told the pollster he voted in PPS
+* Voter 53 reborn into 60
+Voter 60 Waiting for space to enter at polling Station
+Voter 54 voted anonymously
+- Voter 59 entering queue, 5
+Voter 60 Waiting for space to enter at polling Station
+Voter 55 Waiting for space to enter at polling Station
+Voter 52 Waiting for space to enter at polling Station
+- Voter 56 has been approved by Poll Clerk 1
+Voter 57 exiting desk queue
+- Poll Clerk 1 is processing Voter 57
+* Voter 45 didn't respond to the pollster
+> Voter 54 was not selected by the pollster.
+* Voter 45 reborn into 61
+* Voter 54 reborn into 62
+Voter 61 Waiting for space to enter at polling Station
+Voter 62 Waiting for space to enter at polling Station
+- Voter 57 has been approved by Poll Clerk 1
+Voter 58 exiting desk queue
+- Poll Clerk 1 is processing Voter 58
+Voter 51 voted anonymously
+Voter 62 Waiting for space to enter at polling Station
+- Voter 60 entering queue, 5
+Voter 61 Waiting for space to enter at polling Station
+Voter 52 Waiting for space to enter at polling Station
+Voter 55 Waiting for space to enter at polling Station
+Voter 57 voted anonymously
+Voter 55 Waiting for space to enter at polling Station
+- Voter 62 entering queue, 5
+Voter 52 Waiting for space to enter at polling Station
+Voter 61 Waiting for space to enter at polling Station
+- Voter 58 has been approved by Poll Clerk 1
+Voter 59 exiting desk queue
+- Poll Clerk 1 is processing Voter 59
+Voter 56 voted anonymously
+Voter 61 Waiting for space to enter at polling Station
+- Voter 55 entering queue, 5
+Voter 52 Waiting for space to enter at polling Station
+- Voter 59 has been approved by Poll Clerk 1
+Voter 60 exiting desk queue
+- Poll Clerk 1 is processing Voter 60
+* Voter 51 lied to the pollster about his party. He said he voted in FDR
+* Voter 51 reborn into 63
+Voter 63 Waiting for space to enter at polling Station
+Voter 58 voted anonymously
+Voter 63 Waiting for space to enter at polling Station
+- Voter 61 entering queue, 5
+Voter 52 Waiting for space to enter at polling Station
+- Voter 60 has been approved by Poll Clerk 1
+Voter 62 exiting desk queue
+- Poll Clerk 1 is processing Voter 62
+Voter 59 voted anonymously
+- Voter 63 entering queue, 5
+Voter 52 Waiting for space to enter at polling Station
+* Voter 57 didn't respond to the pollster
+* Voter 57 reborn into 64
+Voter 64 Waiting for space to enter at polling Station
+- Voter 62 has been approved by Poll Clerk 1
+Voter 55 exiting desk queue
+- Poll Clerk 1 is processing Voter 55
+* Voter 56 told the pollster he voted in FDR
+> Voter 58 was not selected by the pollster.
+* Voter 56 reborn into 65
+* Voter 58 reborn into 66
+Voter 65 Waiting for space to enter at polling Station
+Voter 66 Waiting for space to enter at polling Station
+- Voter 55 has been approved by Poll Clerk 1
+Voter 61 exiting desk queue
+- Poll Clerk 1 is processing Voter 61
+Voter 60 voted anonymously
+- Voter 52 entering queue, 5
+Voter 66 Waiting for space to enter at polling Station
+Voter 65 Waiting for space to enter at polling Station
+Voter 64 Waiting for space to enter at polling Station
+* Voter 59 told the pollster he voted in PPS
+* Voter 59 reborn into 67
+Voter 67 Waiting for space to enter at polling Station
+- Voter 61 has been approved by Poll Clerk 1
+Voter 63 exiting desk queue
+- Poll Clerk 1 is processing Voter 63
+Voter 55 voted anonymously
+* Voter 55 reborn into 68
+- Voter 66 entering queue, 5
+Voter 67 Waiting for space to enter at polling Station
+Voter 64 Waiting for space to enter at polling Station
+Voter 65 Waiting for space to enter at polling Station
+Voter 68 Waiting for space to enter at polling Station
+* Voter 60 told the pollster he voted in MRL
+* Voter 60 reborn into 69
+Voter 69 Waiting for space to enter at polling Station
+- Voter 63 has been approved by Poll Clerk 1
+Voter 52 exiting desk queue
+- Poll Clerk 1 is processing Voter 52
+* Voter 68 told the pollster he voted in FDR
+- Voter 52 has been approved by Poll Clerk 1
+Voter 66 exiting desk queue
+- Poll Clerk 1 is processing Voter 66
+Voter 62 voted anonymously
+> Voter 62 was not selected by the pollster.
+- Voter 67 entering queue, 5
+Voter 69 Waiting for space to enter at polling Station
+* Voter 62 reborn into 70
+Voter 70 Waiting for space to enter at polling Station
+Voter 68 Waiting for space to enter at polling Station
+Voter 65 Waiting for space to enter at polling Station
+Voter 64 Waiting for space to enter at polling Station
+- Voter 66 has been approved by Poll Clerk 1
+Voter 67 exiting desk queue
+- Poll Clerk 1 is processing Voter 67
+Voter 61 voted anonymously
+Voter 64 Waiting for space to enter at polling Station
+- Voter 69 entering queue, 5
+Voter 65 Waiting for space to enter at polling Station
+Voter 68 Waiting for space to enter at polling Station
+Voter 70 Waiting for space to enter at polling Station
+- Voter 67 has been approved by Poll Clerk 1
+Voter 69 exiting desk queue
+- Poll Clerk 1 is processing Voter 69
+* Voter 61 told the pollster he voted in PPS
+* Voter 61 reborn into 71
+Voter 71 Waiting for space to enter at polling Station
+- Voter 69 has been approved by Poll Clerk 1
+Voter 52 voted anonymously
+Voter 63 voted anonymously
+- Voter 71 entering queue, 5
+* Voter 52 reborn into 72
+Voter 71 exiting desk queue
+- Poll Clerk 1 is processing Voter 71
+Voter 68 Waiting for space to enter at polling Station
+- Voter 70 entering queue, 5
+Voter 65 Waiting for space to enter at polling Station
+Voter 72 Waiting for space to enter at polling Station
+- Voter 64 entering queue, 5
+Voter 66 voted anonymously
+Voter 68 Waiting for space to enter at polling Station
+Voter 72 Waiting for space to enter at polling Station
+Voter 65 Waiting for space to enter at polling Station
+- Voter 71 has been approved by Poll Clerk 1
+Voter 70 exiting desk queue
+- Poll Clerk 1 is processing Voter 70
+* Voter 72 lied to the pollster about his party. He said he voted in MRL
+Voter 69 voted anonymously
+Voter 65 Waiting for space to enter at polling Station
+- Voter 68 entering queue, 5
+Voter 72 Waiting for space to enter at polling Station
+- Voter 70 has been approved by Poll Clerk 1
+Voter 64 exiting desk queue
+- Poll Clerk 1 is processing Voter 64
+Voter 67 voted anonymously
+- Voter 65 entering queue, 5
+Voter 72 Waiting for space to enter at polling Station
+* Voter 63 told the pollster he voted in PPS
+* Voter 63 reborn into 73
+Voter 73 Waiting for space to enter at polling Station
+- Voter 64 has been approved by Poll Clerk 1
+Voter 68 exiting desk queue
+- Poll Clerk 1 is processing Voter 68
+Voter 70 voted anonymously
+- Voter 72 entering queue, 5
+Voter 73 Waiting for space to enter at polling Station
+* Voter 66 told the pollster he voted in MRL
+* Voter 66 reborn into 74
+Voter 74 Waiting for space to enter at polling Station
+- Voter 68 has been approved by Poll Clerk 1
+Voter 65 exiting desk queue
+- Poll Clerk 1 is processing Voter 65
+Voter 71 voted anonymously
+Voter 74 Waiting for space to enter at polling Station
+- Voter 73 entering queue, 5
+* Voter 69 told the pollster he voted in CHZ
+> Voter 67 was not selected by the pollster.
+* Voter 67 reborn into 76
+Voter 76 Waiting for space to enter at polling Station
+* Voter 69 reborn into 75
+Voter 75 Waiting for space to enter at polling Station
+Voter 64 voted anonymously
+Voter 75 Waiting for space to enter at polling Station
+- Voter 74 entering queue, 5
+Voter 76 Waiting for space to enter at polling Station
+- Voter 65 has been approved by Poll Clerk 1
+Voter 72 exiting desk queue
+- Poll Clerk 1 is processing Voter 72
+Voter 68 voted anonymously
+* Voter 68 reborn into 77
+- Voter 75 entering queue, 5
+Voter 76 Waiting for space to enter at polling Station
+Voter 77 Waiting for space to enter at polling Station
+* Voter 70 didn't respond to the pollster
+> Voter 71 was not selected by the pollster.
+> Voter 64 was not selected by the pollster.
+* Voter 70 reborn into 78
+* Voter 64 reborn into 80
+Voter 78 Waiting for space to enter at polling Station
+* Voter 71 reborn into 79
+Voter 79 Waiting for space to enter at polling Station
+Voter 65 voted anonymously
+- Voter 80 entering queue, 5
+Voter 79 Waiting for space to enter at polling Station
+Voter 78 Waiting for space to enter at polling Station
+Voter 77 Waiting for space to enter at polling Station
+Voter 76 Waiting for space to enter at polling Station
+- Voter 72 has been approved by Poll Clerk 1
+Voter 73 exiting desk queue
+- Poll Clerk 1 is processing Voter 73
+* Voter 77 told the pollster he voted in MRL
+- Voter 73 has been approved by Poll Clerk 1
+Voter 74 exiting desk queue
+- Poll Clerk 1 is processing Voter 74
+* Voter 65 told the pollster he voted in FDR
+* Voter 65 reborn into 81
+Voter 81 Waiting for space to enter at polling Station
+Voter 72 voted anonymously
+* Voter 72 reborn into 82
+- Voter 79 entering queue, 5
+Voter 81 Waiting for space to enter at polling Station
+Voter 76 Waiting for space to enter at polling Station
+Voter 77 Waiting for space to enter at polling Station
+Voter 78 Waiting for space to enter at polling Station
+Voter 82 Waiting for space to enter at polling Station
+- Voter 74 has been approved by Poll Clerk 1
+Voter 75 exiting desk queue
+- Poll Clerk 1 is processing Voter 75
+* Voter 82 lied to the pollster about his party. He said he voted in FDR
+Voter 73 voted anonymously
+Voter 82 Waiting for space to enter at polling Station
+- Voter 81 entering queue, 5
+Voter 78 Waiting for space to enter at polling Station
+Voter 77 Waiting for space to enter at polling Station
+Voter 76 Waiting for space to enter at polling Station
+- Voter 75 has been approved by Poll Clerk 1
+Voter 80 exiting desk queue
+- Poll Clerk 1 is processing Voter 80
+Voter 74 voted anonymously
+Voter 76 Waiting for space to enter at polling Station
+- Voter 82 entering queue, 5
+Voter 77 Waiting for space to enter at polling Station
+Voter 78 Waiting for space to enter at polling Station
+* Voter 73 told the pollster he voted in PPS
+* Voter 73 reborn into 83
+Voter 83 Waiting for space to enter at polling Station
+- Voter 80 has been approved by Poll Clerk 1
+Voter 79 exiting desk queue
+- Poll Clerk 1 is processing Voter 79
+* Voter 74 told the pollster he voted in PPS
+* Voter 74 reborn into 84
+Voter 84 Waiting for space to enter at polling Station
+- Voter 79 has been approved by Poll Clerk 1
+Voter 81 exiting desk queue
+- Poll Clerk 1 is processing Voter 81
+Voter 75 voted anonymously
+- Voter 76 entering queue, 5
+Voter 84 Waiting for space to enter at polling Station
+Voter 83 Waiting for space to enter at polling Station
+Voter 78 Waiting for space to enter at polling Station
+Voter 77 Waiting for space to enter at polling Station
+Voter 79 voted anonymously
+- Voter 84 entering queue, 5
+Voter 77 Waiting for space to enter at polling Station
+Voter 78 Waiting for space to enter at polling Station
+Voter 83 Waiting for space to enter at polling Station
+- Voter 81 has been approved by Poll Clerk 1
+Voter 82 exiting desk queue
+- Poll Clerk 1 is processing Voter 82
+Voter 80 voted anonymously
+- Voter 77 entering queue, 5
+Voter 83 Waiting for space to enter at polling Station
+* Voter 75 told the pollster he voted in PPS
+Voter 78 Waiting for space to enter at polling Station
+* Voter 75 reborn into 85
+Voter 85 Waiting for space to enter at polling Station
+- Voter 82 has been approved by Poll Clerk 1
+Voter 76 exiting desk queue
+- Poll Clerk 1 is processing Voter 76
+* Voter 79 told the pollster he voted in MRL
+* Voter 79 reborn into 86
+Voter 86 Waiting for space to enter at polling Station
+Voter 81 voted anonymously
+Voter 86 Waiting for space to enter at polling Station
+- Voter 83 entering queue, 5
+Voter 85 Waiting for space to enter at polling Station
+Voter 78 Waiting for space to enter at polling Station
+- Voter 76 has been approved by Poll Clerk 1
+Voter 84 exiting desk queue
+- Poll Clerk 1 is processing Voter 84
+Voter 82 voted anonymously
+* Voter 80 told the pollster he voted in PPS
+* Voter 82 reborn into 87
+- Voter 87 entering queue, 5
+Voter 86 Waiting for space to enter at polling Station
+- Voter 84 has been approved by Poll Clerk 1
+Voter 77 exiting desk queue
+- Poll Clerk 1 is processing Voter 77
+* Voter 80 reborn into 88
+Voter 78 Waiting for space to enter at polling Station
+Voter 85 Waiting for space to enter at polling Station
+Voter 88 Waiting for space to enter at polling Station
+* Voter 81 didn't respond to the pollster
+* Voter 81 reborn into 89
+Voter 89 Waiting for space to enter at polling Station
+- Voter 77 has been approved by Poll Clerk 1
+Voter 83 exiting desk queue
+- Poll Clerk 1 is processing Voter 83
+Voter 76 voted anonymously
+* Voter 87 didn't respond to the pollster
+> Voter 76 was not selected by the pollster.
+- Voter 86 entering queue, 5
+Voter 89 Waiting for space to enter at polling Station
+Voter 88 Waiting for space to enter at polling Station
+Voter 85 Waiting for space to enter at polling Station
+Voter 78 Waiting for space to enter at polling Station
+* Voter 76 reborn into 90
+Voter 90 Waiting for space to enter at polling Station
+- Voter 83 has been approved by Poll Clerk 1
+Voter 87 exiting desk queue
+- Poll Clerk 1 is processing Voter 87
+Voter 77 voted anonymously
+> Voter 77 was not selected by the pollster.
+* Voter 77 reborn into 91
+Voter 90 Waiting for space to enter at polling Station
+- Voter 89 entering queue, 5
+Voter 78 Waiting for space to enter at polling Station
+Voter 85 Waiting for space to enter at polling Station
+Voter 88 Waiting for space to enter at polling Station
+Voter 91 Waiting for space to enter at polling Station
+Voter 84 voted anonymously
+- Voter 90 entering queue, 5
+Voter 91 Waiting for space to enter at polling Station
+Voter 88 Waiting for space to enter at polling Station
+Voter 85 Waiting for space to enter at polling Station
+Voter 78 Waiting for space to enter at polling Station
+Voter 83 voted anonymously
+Voter 78 Waiting for space to enter at polling Station
+- Voter 91 entering queue, 5
+Voter 85 Waiting for space to enter at polling Station
+Voter 88 Waiting for space to enter at polling Station
+- Voter 87 has been approved by Poll Clerk 1
+Voter 86 exiting desk queue
+- Poll Clerk 1 is processing Voter 86
+Voter 87 voted anonymously
+- Voter 78 entering queue, 5
+* Voter 87 reborn into 92
+Voter 88 Waiting for space to enter at polling Station
+Voter 85 Waiting for space to enter at polling Station
+Voter 92 Waiting for space to enter at polling Station
+* Voter 84 didn't respond to the pollster
+> Voter 83 was not selected by the pollster.
+* Voter 84 reborn into 93
+* Voter 83 reborn into 94
+Voter 93 Waiting for space to enter at polling Station
+Voter 94 Waiting for space to enter at polling Station
+- Voter 86 has been approved by Poll Clerk 1
+Voter 89 exiting desk queue
+- Poll Clerk 1 is processing Voter 89
+* Voter 92 didn't respond to the pollster
+- Voter 89 has been approved by Poll Clerk 1
+Voter 90 exiting desk queue
+- Poll Clerk 1 is processing Voter 90
+- Voter 90 has been approved by Poll Clerk 1
+Voter 91 exiting desk queue
+- Poll Clerk 1 is processing Voter 91
+Voter 86 voted anonymously
+Voter 94 Waiting for space to enter at polling Station
+- Voter 88 entering queue, 5
+Voter 93 Waiting for space to enter at polling Station
+Voter 92 Waiting for space to enter at polling Station
+Voter 85 Waiting for space to enter at polling Station
+- Voter 91 has been approved by Poll Clerk 1
+Voter 78 exiting desk queue
+- Poll Clerk 1 is processing Voter 78
+* Voter 86 told the pollster he voted in PPS
+* Voter 86 reborn into 95
+Voter 95 Waiting for space to enter at polling Station
+Voter 90 voted anonymously
+> Voter 90 was not selected by the pollster.
+- Voter 94 entering queue, 5
+Voter 95 Waiting for space to enter at polling Station
+Voter 85 Waiting for space to enter at polling Station
+Voter 92 Waiting for space to enter at polling Station
+Voter 93 Waiting for space to enter at polling Station
+* Voter 90 reborn into 96
+Voter 96 Waiting for space to enter at polling Station
+Voter 89 voted anonymously
+- Voter 78 has been approved by Poll Clerk 1
+Voter 96 Waiting for space to enter at polling Station
+- Voter 95 entering queue, 5
+Voter 93 Waiting for space to enter at polling Station
+Voter 92 Waiting for space to enter at polling Station
+Voter 85 Waiting for space to enter at polling Station
+Voter 88 exiting desk queue
+- Poll Clerk 1 is processing Voter 88
+Voter 91 voted anonymously
+- Voter 88 has been approved by Poll Clerk 1
+- Voter 85 entering queue, 5
+* Voter 91 reborn into 97
+Voter 92 Waiting for space to enter at polling Station
+Voter 93 Waiting for space to enter at polling Station
+Voter 96 Waiting for space to enter at polling Station
+Voter 97 Waiting for space to enter at polling Station
+Voter 94 exiting desk queue
+- Poll Clerk 1 is processing Voter 94
+* Voter 89 told the pollster he voted in CHZ
+> Voter 97 was not selected by the pollster.
+* Voter 89 reborn into 98
+Voter 98 Waiting for space to enter at polling Station
+Voter 78 voted anonymously
+Voter 98 Waiting for space to enter at polling Station
+- Voter 92 entering queue, 5
+Voter 97 Waiting for space to enter at polling Station
+Voter 96 Waiting for space to enter at polling Station
+Voter 93 Waiting for space to enter at polling Station
+- Voter 94 has been approved by Poll Clerk 1
+Voter 95 exiting desk queue
+- Poll Clerk 1 is processing Voter 95
+* Voter 78 told the pollster he voted in PPS
+* Voter 78 reborn into 99
+Voter 99 Waiting for space to enter at polling Station
+- Voter 95 has been approved by Poll Clerk 1
+Voter 85 exiting desk queue
+- Poll Clerk 1 is processing Voter 85
+Voter 88 voted anonymously
+- Voter 98 entering queue, 5
+Voter 99 Waiting for space to enter at polling Station
+Voter 93 Waiting for space to enter at polling Station
+Voter 96 Waiting for space to enter at polling Station
+Voter 97 Waiting for space to enter at polling Station
+* Voter 88 lied to the pollster about his party. He said he voted in MRL
+* Voter 88 reborn into 100
+Voter 100 Waiting for space to enter at polling Station
+- Voter 85 has been approved by Poll Clerk 1
+Voter 92 exiting desk queue
+- Poll Clerk 1 is processing Voter 92
+Voter 95 voted anonymously
+> Voter 95 was not selected by the pollster.
+Voter 100 Waiting for space to enter at polling Station
+Voter 97 Waiting for space to enter at polling Station
+- Voter 99 entering queue, 5
+* Voter 95 reborn into 101
+Voter 101 Waiting for space to enter at polling Station
+Voter 96 Waiting for space to enter at polling Station
+Voter 93 Waiting for space to enter at polling Station
+- Voter 92 has been approved by Poll Clerk 1
+Voter 98 exiting desk queue
+- Poll Clerk 1 is processing Voter 98
+Voter 94 voted anonymously
+> Voter 94 was not selected by the pollster.
+Voter 93 Waiting for space to enter at polling Station
+- Voter 100 entering queue, 5
+Voter 96 Waiting for space to enter at polling Station
+Voter 101 Waiting for space to enter at polling Station
+Voter 97 Waiting for space to enter at polling Station
+* Voter 94 reborn into 102
+Voter 102 Waiting for space to enter at polling Station
+- Voter 98 has been approved by Poll Clerk 1
+Voter 99 exiting desk queue
+- Poll Clerk 1 is processing Voter 99
+Voter 85 voted anonymously
+- Voter 93 entering queue, 5
+Voter 102 Waiting for space to enter at polling Station
+Voter 97 Waiting for space to enter at polling Station
+Voter 101 Waiting for space to enter at polling Station
+Voter 96 Waiting for space to enter at polling Station
+Voter 92 voted anonymously
+* Voter 92 reborn into 103
+Voter 96 Waiting for space to enter at polling Station
+- Voter 102 entering queue, 5
+Voter 101 Waiting for space to enter at polling Station
+Voter 97 Waiting for space to enter at polling Station
+Voter 103 Waiting for space to enter at polling Station
+- Voter 99 has been approved by Poll Clerk 1
+Voter 100 exiting desk queue
+- Poll Clerk 1 is processing Voter 100
+* Voter 85 didn't respond to the pollster
+* Voter 85 reborn false
+Voter 85 Waiting for space to enter at polling Station
+- Voter 100 has been approved by Poll Clerk 1
+Voter 93 exiting desk queue
+- Poll Clerk 1 is processing Voter 93
+Voter 98 voted anonymously
+- Voter 96 entering queue, 5
+Voter 85 Waiting for space to enter at polling Station
+Voter 103 Waiting for space to enter at polling Station
+Voter 97 Waiting for space to enter at polling Station
+Voter 101 Waiting for space to enter at polling Station
+* Voter 103 told the pollster he voted in FDR
+- Voter 93 has been approved by Poll Clerk 1
+Voter 102 exiting desk queue
+- Poll Clerk 1 is processing Voter 102
+Voter 100 voted anonymously
+- Voter 85 entering queue, 5
+Voter 101 Waiting for space to enter at polling Station
+Voter 97 Waiting for space to enter at polling Station
+Voter 103 Waiting for space to enter at polling Station
+Voter 99 voted anonymously
+- Voter 101 entering queue, 5
+Voter 103 Waiting for space to enter at polling Station
+Voter 97 Waiting for space to enter at polling Station
+* Voter 98 told the pollster he voted in MRL
+> Voter 100 was not selected by the pollster.
+* Voter 98 reborn into 104
+* Voter 100 reborn into 105
+Voter 104 Waiting for space to enter at polling Station
+Voter 105 Waiting for space to enter at polling Station
+- Voter 102 has been approved by Poll Clerk 1
+Voter 96 exiting desk queue
+- Poll Clerk 1 is processing Voter 96
+* Voter 99 told the pollster he voted in PPS
+* Voter 99 reborn into 106
+Voter 106 Waiting for space to enter at polling Station
+- Voter Limit reached, Poll Clerk 1 is closing the Polling Station
+The polling station is closed.
+Voter 93 voted anonymously
+- Voter 96 has been approved by Poll Clerk 1
+Voter 85 exiting desk queue
+- Poll Clerk 1 is processing Voter 85
+Voter 105 can't enter Desk, Election Day Over
+Voter 97 can't enter Desk, Election Day Over
+Voter 104 can't enter Desk, Election Day Over
+* Election Day is over, Voter 97 leaving Desk 
+Voter 106 can't enter Desk, Election Day Over
+* Voter 97 terminated
+Voter 103 can't enter Desk, Election Day Over
+* Election Day is over, Voter 106 leaving Desk 
+* Voter 106 terminated
+* Election Day is over, Voter 103 leaving Desk 
+* Voter 103 terminated
+* Election Day is over, Voter 104 leaving Desk 
+* Voter 104 terminated
+* Election Day is over, Voter 105 leaving Desk 
+* Voter 105 terminated
+* Voter 93 lied to the pollster about his party. He said he voted in CHZ
+* Voter 93 reborn into 107
+- Voter 85 has been rejected by Poll Clerk 1
+Voter 101 exiting desk queue
+- Poll Clerk 1 is processing Voter 101
+* Poll station closed, Voter 85 exits the polling station
+* Voter 85 terminated
+Voter 102 voted anonymously
+Voter 96 voted anonymously
+* Poll station closed, Voter 101 exits the polling station
+Election Results:
+* Voter 101 terminated
+PPS : 49
+FDR : 19
+MRL : 19
+CHZ : 13
+* Voter 102 didn't respond to the pollster
+* Voter 102 reborn into 108
+* Voter 96 told the pollster he voted in MRL
+> Pollster is done
+* Voter 96 reborn into 109
+Polling station is closed. All voters processed.
